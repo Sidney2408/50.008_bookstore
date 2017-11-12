@@ -2,3 +2,13 @@
 
 #Installer Logs
 pip-log.txt
+
+#Virtual Env
+bin/
+include/
+lib/
+local/
+pip-selfcheck.json
+
+#Database
+*.sqlite3
