@@ -1,0 +1,4 @@
+*.py[cod]
+
+#Installer Logs
+pip-log.txt
